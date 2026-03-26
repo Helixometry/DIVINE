@@ -3,8 +3,7 @@
 # DIVINE
 ## Coordinating Multimodal Disentangled Representations for Oro-Facial Neurological Disorder Assessment
 
-[![Paper](https://img.shields.io/badge/Paper-PDF-red.svg)](https://arxiv.org/abs/2601.07014)
-
+[![arXiv](https://img.shields.io/badge/arXiv-2601.07014-b31b1b.svg)](https://arxiv.org/abs/2601.07014), [EACL 2026]
 </div>
 
 ---
