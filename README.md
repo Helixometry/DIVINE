@@ -5,6 +5,10 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2601.07014-b31b1b.svg)](https://arxiv.org/abs/2601.07014)
 [EACL 2026]
+<div align="center">
+    <img src="image.png" alt="Pipeline" style="width: 100%;"/>
+</div>
+
 </div>
 
 ---
