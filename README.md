@@ -40,6 +40,7 @@ Neurological disorder assessment from speech and facial behavior requires integr
     <img src="DIVINE.drawio.png" alt="Pipeline" style="width: 100%;"/>
 </div>
 ---
+
 DIVINE consists of five key stages:
 
 1. **Temporal Refinement**  
