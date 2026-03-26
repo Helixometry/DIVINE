@@ -350,3 +350,23 @@ So users can compare multimodal and single-modal behavior using the same DIVINE 
 - `data/preprocessing.py` is intentionally minimal because users usually have their own preprocessing pipeline
 
 ---
+```bibtex
+
+@inproceedings{akhtar-etal-2026-divine,
+    title = "{DIVINE} : Coordinating Multimodal Disentangled Representations for {O}ro-Facial Neurological Disorder Assessment",
+    author = "Akhtar, Mohd Mujtaba  and
+      Girish  and
+      Singh, Muskaan",
+    editor = "Demberg, Vera  and
+      Inui, Kentaro  and
+      Marquez, Llu{\'i}s",
+    booktitle = "Proceedings of the 19th Conference of the {E}uropean Chapter of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = mar,
+    year = "2026",
+    address = "Rabat, Morocco",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.eacl-long.248/",
+    doi = "10.18653/v1/2026.eacl-long.248",
+    pages = "5379--5392",
+    ISBN = "979-8-89176-380-7",
+}
